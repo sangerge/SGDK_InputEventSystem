@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "MegeDrive",
+            "includePath": [
+                "${GDK_WIN}/inc"
+            ]
+        }
+    ],
+    "version": 4
+}
